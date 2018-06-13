@@ -18,5 +18,4 @@ The Script first checks Local Database and then the VT Database for the Hash, if
 <!-- copy and paste. Modify height and width if desired. --> <a href="https://content.screencast.com/users/Tarun047/folders/Jing/media/239ded93-a826-4966-8cf1-17ae4060d00a/2018-06-13_1552.png"><img class="embeddedObject" src="https://content.screencast.com/users/Tarun047/folders/Jing/media/239ded93-a826-4966-8cf1-17ae4060d00a/2018-06-13_1552.png" width="979" height="512" border="0" /></a>
 <br />
 
-![sam](https://user-images.githubusercontent.com/32017154/41347081-39913030-6f26-11e8-9682-40077fda41d5.PNG)
-
+![sam1](https://user-images.githubusercontent.com/32017154/41347203-7eb44f94-6f26-11e8-9fe8-89b4885755a4.PNG)
