@@ -7,6 +7,7 @@ class Application(tkinter.Frame):
         tkinter.Frame.__init__(self,master)
         self.pack()
         self.res = res
+        self.master.title("PyScan")
         self.initGUI()
         self.master.mainloop()
 
